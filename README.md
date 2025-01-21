@@ -1,3 +1,1 @@
-# mvp_angular
- Angular MVP
-# crud
+# projeto-angular
